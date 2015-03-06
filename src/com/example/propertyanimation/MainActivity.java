@@ -29,6 +29,7 @@ public class MainActivity extends Activity {
         setContentView(R.layout.activity_main);
         sh = getResources().getDisplayMetrics().heightPixels;
         //add line
+        //add line2
     }
 
     /**
